@@ -6,9 +6,6 @@ tag:
     - ubuntu
 ---
 
-
-####II.Software
-
 - [uGet, the Best Download Manager for Linux](#uget-the-best-download-manager-for-linux)
 - [Wifi for Ubuntu](#wifi-for-ubuntu)
 - [Apt-fast](#apt-fast)
@@ -18,8 +15,6 @@ tag:
 - [Xkbmod Indicator](#xkbmod-indicator)
 - [Pushbullet](#pushbullet)
 - [Other Software](#other-software)
-
-##II.Software
 
 
 ##### uGet, the Best Download Manager for Linux.
