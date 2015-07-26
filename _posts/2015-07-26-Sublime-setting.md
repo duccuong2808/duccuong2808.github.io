@@ -1,13 +1,14 @@
-####Setting
-
-
-```ruby
-class test
-  def test1
-  end
-end
-
-```
+---
+layout: post
+author: NDC
+title: Sublime text setting
+excerpt_separator: <!--more-->
+tags:
+    - sublime
+    - sublime text
+    - package
+---
+Các setting thường dùng trong SublimeText
 
 #####*Preferences.sublime-settings*
 
@@ -60,7 +61,7 @@ end
 [
   { "keys": ["f12"], "command": "htmlprettify"},
   { "keys": ["f1"], "command": "fold" },
-  { "keys": ["f2"], "command": "unfold" },
+  // { "keys": ["f2"], "command": "unfold" },
   { "keys": ["ctrl+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
 
   { "keys": ["ctrl+space"], "command": "auto_complete" },
@@ -84,6 +85,7 @@ end
   { "keys": ["ctrl+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
   { "keys": ["shift+ctrl+f4"], "command": "close_all" },
   { "keys": ["shift+ctrl+y"], "command": "lower_case" },
-  { "keys": ["shift+ctrl+x"], "command": "upper_case" }
+  { "keys": ["shift+ctrl+x"], "command": "upper_case" },
+  { "keys": ["f2"], "command": "controlime" }
 ]
 ```
