@@ -1,10 +1,14 @@
 ---
 layout: post
 author: NDC
+title: Ubuntu package
 excerpt_separator: <!--more-->
-tag:
+tags:
     - ubuntu
+    - package
 ---
+
+Danh sách các package dành cho Ubuntu
 
 - [uGet, the Best Download Manager for Linux](#uget-the-best-download-manager-for-linux)
 - [Wifi for Ubuntu](#wifi-for-ubuntu)

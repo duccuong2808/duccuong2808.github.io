@@ -1,10 +1,14 @@
 ---
 layout: post
 author: NDC
+title: Ubuntu tip
 excerpt_separator: <!--more-->
+tags:
+    - ubuntu
+    - tip
 ---
 
-This is packages and tip for ubuntu
+`Một số tip dành cho Ubuntu`
 
 - [List all Installed Packages](#list-all-installed-packages)
 - [Data size of folder](#data-size-of-folder)
@@ -12,7 +16,6 @@ This is packages and tip for ubuntu
 - [Remove repository via terminal](#remove-repository-via-terminal)
 - [Refresh hosts file without rebooting](#linux--how-to-refresh-hosts-file-without-rebooting)
 - [Change repo source.list use terminal](#change-repo-sourcelist-use-terminal)
-
 
 
 ##### List all Installed Packages
