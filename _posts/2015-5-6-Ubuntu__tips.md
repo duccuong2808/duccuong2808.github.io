@@ -8,7 +8,7 @@ tags:
     - tip
 ---
 
-`Một số tip dành cho Ubuntu`
+Một số tip dành cho Ubuntu
 
 - [List all Installed Packages](#list-all-installed-packages)
 - [Data size of folder](#data-size-of-folder)
